@@ -1,4 +1,4 @@
-## Fullstack Open 2022 - Ellenin kurssisuoritus ##
+##Fullstack Open 2022 - Ellenin kurssisuoritus##
 
 ** Tavoite: ** Mahdollisimman paljon noppia.
 ** Aikataulu: ** Ennen ja jälkeen Wappujen.
