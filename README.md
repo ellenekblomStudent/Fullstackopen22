@@ -1,5 +1,5 @@
-# Fullstack Open 2022 - Ellenin kurssisuoritus# <br/>
-Alt-Fullstack
+# Fullstack Open 2022 - Ellenin kurssisuoritus <br/>
+
 **Tavoite:** Mahdollisimman paljon noppia. <br/>
 **Aikataulu:** Ennen ja jälkeen Wappujen. <br/>
 **Miksi:** Tiedän tämän kurssin olevan Jalli ja Suklaatehdas arvoinen kurssi <br/>
